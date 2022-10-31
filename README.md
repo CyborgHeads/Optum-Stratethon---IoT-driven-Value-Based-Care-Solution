@@ -50,37 +50,7 @@ To send messages to the connector you can [send events](https://docs.microsoft.c
 - [Connecting to Azure IoT](./docs/Iot.md): Describes how to connect the IoMT FHIR Connector for Azure with different Azure IoT solutions like IoT Hub and IoT Central.
 - [Debugging](./docs/Debugging.md): Documents steps for local and cloud debugging.
 
-# Additional tools
-
 ## IoMT Connector Data Mapper
 
 The IoMT Connector Data Mapper is a tool to visualize the mapping configuration for normalizing the device input data and transform it to the FHIR resources. Developers can use this tool to edit and test the mappings, device mapping and FHIR mapping, and export them for uploading to the IoT Connector in the Azure portal. The tool also gives tutorials for developers to understand the mapping configuration.
 [Click here for additional details](./tools/data-mapper/)
-
-# More Information
-- [Azure API for FHIR](https://docs.microsoft.com/en-us/azure/healthcare-apis/)
-- Blog: [Accelerate IoMT on FHIR with new Microsoft OSS Connector](https://azure.microsoft.com/en-us/blog/accelerate-iomt-on-fhir-with-new-microsoft-oss-connector/)
-
-# Contributing
-
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
-
-When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-There are many other ways to contribute to IoMT FHIR Connector for Azure.
-* [Submit bugs](https://github.com/Microsoft/iomt-fhir/issues) and help us verify fixes as they are checked in.
-* Review the [source code changes](https://github.com/Microsoft/iomt-fhir/pulls).
-* Engage with IoMT FHIR Connector for Azure users and developers on [StackOverflow](https://stackoverflow.com/questions/tagged/iomt-fhir-connector-for-azure).
-* [Contribute bug fixes](CONTRIBUTING.md).
-
-See [Contributing to IoMT FHIR Connector for Azure](CONTRIBUTING.md) for more information.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-FHIR&reg; is a registered trademark of Health Level Seven International, registered in the U.S. Trademark Office and is used with their permission.
