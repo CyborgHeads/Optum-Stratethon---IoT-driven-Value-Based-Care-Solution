@@ -1,4 +1,4 @@
-# IoMT FHIR Connector for Azure
+# IoMT FHIR Connector for IoT-driven Value-Based Healthcare Solutions
 
 [![Build Status](https://microsofthealthoss.visualstudio.com/FhirServer/_apis/build/status/IoMT/IoMT%20CI%20Build?branchName=main)](https://microsofthealthoss.visualstudio.com/FhirServer/_build/latest?definitionId=12&branchName=main)
 
